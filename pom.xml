@@ -26,10 +26,10 @@
     </scm>
     <developers>
         <developer>
-            <name>Dmitry Grytsovets</name>
-            <email>dmitry.grytsovets@gmail.com</email>
+            <name>Wahyu</name>
+            <email>wahyu@foura.io</email>
             <organization>Bee</organization>
-            <organizationUrl>http://bee.org/</organizationUrl>
+            <organizationUrl>http://foura.io/</organizationUrl>
         </developer>
     </developers>
     <build>
